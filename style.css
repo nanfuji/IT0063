@@ -1,0 +1,31 @@
+body {
+  font-family: Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
+
+
+.resume {
+  text-align: justify; 
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: rgb(19, 18, 18)c1c;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+div {
+    color: rgb(29, 29, 29);
+}
+
+button {
+  display: block;
+  margin: 20px auto;
+  padding: 10px 20px;
+  background-color: #3498db;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
